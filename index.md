@@ -33,4 +33,13 @@ def greet(name):
     return f"Hello, {name}!"
 
 print(greet("World"))
+```
 
+
+
+## My Task List
+
+- [x] Add headers to index.md
+- [x] Add an image
+- [x] Add a code block
+- [ ] Add a task list (this one!)
