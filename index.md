@@ -16,3 +16,10 @@ Markdown is a lightweight syntax for formatting text on GitHub.
 ##### This is an H5
 ###### This is an H6
 
+## Adding an Image
+
+Here’s an example image from GitHub’s Octodex:
+
+![Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+
