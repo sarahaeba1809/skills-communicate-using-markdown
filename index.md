@@ -23,3 +23,14 @@ Here’s an example image from GitHub’s Octodex:
 ![Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 
+
+### Example 3 (Python)
+```markdown
+## Code Example: Python
+
+```python
+def greet(name):
+    return f"Hello, {name}!"
+
+print(greet("World"))
+
